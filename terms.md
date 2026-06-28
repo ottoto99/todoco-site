@@ -16,7 +16,7 @@ Todoco is a task manager app provided by ottoto.
 
 ### 2. Subscriptions
 
-The App may offer auto-renewable subscriptions.
+Todoco Premium is a monthly auto-renewable subscription.
 
 - Payment will be charged to your Apple ID account at confirmation of purchase.
 - Subscription renews automatically unless cancelled at least 24 hours before the end of the current period.
@@ -59,7 +59,7 @@ Todoco は、ottoto が提供するタスク管理アプリです。
 
 ### 2. サブスクリプション
 
-本アプリは、自動更新サブスクリプションを提供する場合があります。
+Todoco Premium は月額の自動更新サブスクリプションです。
 
 - 料金は、購入確定時に Apple ID アカウントに請求されます。
 - サブスクリプションは、現在の期間終了の24時間以上前に解約しない限り自動更新されます。
